@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">PowWow</string>
+    <string name="inputtext">Please, input your phone number (no spaces) and your name.</string>
+    <string name="generate">Generate QR Image</string>
+    <string name="inputtext_es">Por favor, introduce tu número de teléfono (sin espacios) y tu nombre.</string>
+    <string name="generate_es">Generar imagen QR</string>
 </resources>
