@@ -1,2 +1,3 @@
+include ':QRGenearator'
 include ':app'
 rootProject.name = "PowWow"
